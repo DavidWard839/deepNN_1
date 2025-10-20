@@ -1,0 +1,22 @@
+# Ignore data and outputs
+data/
+outputs/
+logs/
+key/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.env/
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
